@@ -1,5 +1,6 @@
 body{
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Concert One', cursive;
+    margin: 0px;
 
 }
 .top{
@@ -65,4 +66,56 @@ span{
     margin-left: 200px;
 
 
+}
+.mid2{
+    display: flex;
+    margin-bottom: 80px;
+}
+.foodi{
+    width: 30%;
+    padding: 40px;
+    box-shadow: 1px 1px 30px rgb(71, 69, 69);
+    border-radius: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 30px;
+    
+}
+.foodi img{
+    width: 100%;
+}
+
+.bottom-mid{
+    display: flex;
+    margin-bottom: 50px;
+    box-shadow: 1px 1px 30px rgb(71, 69, 69);
+    border-radius: 15px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.bottom-mid div{
+   
+    width: 33.3%;
+    text-align: center;
+    font-size: 25px;
+    padding: 30px;
+
+    
+}
+    
+
+footer{
+    background-color: black;
+    text-align: center;
+    color: aliceblue;
+    padding-top: 10px;
+    line-height: 60px;
+    
+}
+
+footer span{
+    color: orange;
+}
+footer p{
+    padding-bottom: 110px;
 }
